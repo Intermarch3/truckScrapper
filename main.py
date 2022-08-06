@@ -12,9 +12,9 @@ import urllib.request
 from pathlib import Path
 
 #####- global var -#####
-
 SITE_URL = ["https://fierdetreroutier.fr/piwigo/index.php?/category/150"]
 
+#####- function space -#####
 def main():
     # main function
     # param: none
