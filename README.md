@@ -3,7 +3,12 @@
 
 ## How to use it ?
 
-#### go to the repo and type in the terminal : 
+#### install packages
+```
+pip install -r requirements.txt
+```
+
+#### Run the python program : 
 ```
 python main.py
 ```
